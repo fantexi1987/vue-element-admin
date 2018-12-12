@@ -165,7 +165,7 @@ Refer to [Documentation](https://fantexi1987.github.io/vue-element-admin-site/gu
 Detailed changes for each release are documented in the [release notes](https://github.com/fantexi1987/vue-element-admin/releases).
 
 ## Online Demo
-[Preview](http://fantexi1987.github.io/vue-element-admin)
+[Preview](http://fantexi19870215.github.io/vue-element-admin)
 
 
 ## License
