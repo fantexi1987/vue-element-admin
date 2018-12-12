@@ -15,7 +15,7 @@ import './errorLog'// error log
 import './permission' // permission control
 import './mock' // simulation data
 import * as filters from './filters' // global filters
-
+//elementui i18n
 Vue.use(Element, {
   size: 'medium', // set element-ui default size
   i18n: (key, value) => i18n.t(key, value)
